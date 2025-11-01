@@ -1,16 +1,48 @@
-# daily_pluse
+# DailyPulse 🧠📱  
+A Flutter-based mood tracking app designed to help users reflect on their emotional well-being through daily mood logging, emotional history insights, and a clean visual experience.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 📝 Overview
+DailyPulse allows users to:
 
-This project is a starting point for a Flutter application.
+✅ Log their mood daily using expressive emojis  
+✅ Add optional notes with each entry  
+✅ View all past mood logs in a structured screen  
+✅ Enjoy a smooth and modern UI experience  
 
-A few resources to get you started if this is your first Flutter project:
+This app encourages self-awareness and emotional consistency through simple and delightful interactions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Setup Instructions
+
+### ✅ Prerequisites
+- Flutter SDK (version ≥ **3.19.0**)
+- Dart (version ≥ **3.0.0**)
+- Android Studio / VS Code
+- Firebase project configured for Android
+
+---
+## 💡 Emotion Logic
+
+Each emoji is mapped to a numeric mood score:
+
+😄 Very Happy → 5  
+🙂 Happy → 4  
+😐 Neutral → 3  
+😕 Sad → 2  
+😞 Very Sad → 1  
+
+📊 These values are used for:
+- Mood analytics and insights
+- Average mood calculation
+- Tracking emotional changes over time
+
+## 🎨 UI Design Choices
+
+- Material 3 styling for modern and clean UI
+- Soft gradients and rounded UI elements for comfort
+- Emoji-based emotional input → intuitive for everyone
+- Smooth transitions and consistent layout spacing
+
