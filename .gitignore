@@ -8,3 +8,4 @@ pubspec.lock
 # Generated for iOS/Android
 build/
 ios/Pods/
+.idea/
