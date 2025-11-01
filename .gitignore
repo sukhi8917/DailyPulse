@@ -1,43 +1,10 @@
-# Flutter/Dart/Pub related
+# Flutter/Dart/Pub
 .dart_tool/
 .packages
-.pub-cache/
-.pub/
-build/
-generated/
-
-# Android related
-android/app/debug.keystore
-.gradle/
-local.properties
-captures/
-**/android/**/gradle-wrapper.jar
-
-# iOS related (optional if no iOS)
-ios/Pods/
-ios/Flutter/App.framework
-ios/Flutter/Flutter.framework
-ios/Flutter/Generated.xcconfig
-ios/Flutter/flutter_export_environment.sh
-**/ios/**/xcuserdata/
-**/ios/**/DerivedData/
-
-# IDE settings
-.idea/
-.vscode/
-
-# MacOS
-.DS_Store
-
-# Sensitive keys / environment
-*.env
-*.jks
-
-# Logs
-*.log
-
-# Others
-**/.cxx/
-firebase.json
+.flutter-plugins
 .flutter-plugins-dependencies
-*.iml
+pubspec.lock
+
+# Generated for iOS/Android
+build/
+ios/Pods/
