@@ -46,3 +46,15 @@ Each emoji is mapped to a numeric mood score:
 - Emoji-based emotional input → intuitive for everyone
 - Smooth transitions and consistent layout spacing
 
+
+## 📸 Screenshots
+
+<div align="center">
+
+| Home | Log Mood | Calendar | Trends | Analytics |
+|------|----------|----------|--------| ----------|
+| ![Home](screenshots/home.png) | ![Mood Logging](screenshots/log_mood.png) | ![Calendar View](screenshots/calendar.png) | ![Mood Trends](screenshots/trends.png) | ![Analytics](screenshots/Analytics.png) |
+
+</div>
+
+
