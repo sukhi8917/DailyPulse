@@ -38,3 +38,6 @@ ios/Flutter/flutter_export_environment.sh
 
 # Others
 **/.cxx/
+firebase.json
+.flutter-plugins-dependencies
+*.iml
